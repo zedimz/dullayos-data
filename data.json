@@ -30,7 +30,20 @@
       "updatedAt": 1791522414812
     }
   ],
-  "peralatan": [],
+  "peralatan": [
+    {
+      "nama": "sond",
+      "desc": "tes",
+      "harga": "tes",
+      "unit": "fes",
+      "fitur": [
+        "tes"
+      ],
+      "gambar": "",
+      "id": "peralatan_mv0i8wvyqiegp",
+      "updatedAt": 1791522511486
+    }
+  ],
   "tim": [
     {
       "nama": "dul layos",
