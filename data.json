@@ -1,0 +1,16 @@
+{
+  "artikel": [],
+  "testimoni": [],
+  "galeri": [],
+  "peralatan": [],
+  "tim": [
+    {
+      "nama": "dul layos",
+      "role": "owner",
+      "bio": "pemilik alat persewaan tenda layos",
+      "gambar": "",
+      "id": "tim_mv0hm9vobp829",
+      "updatedAt": 1791521455236
+    }
+  ]
+}
