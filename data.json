@@ -1,6 +1,15 @@
 {
   "artikel": [],
-  "testimoni": [],
+  "testimoni": [
+    {
+      "nama": "tes",
+      "role": "slawi",
+      "rating": "4",
+      "text": "tes",
+      "id": "testimoni_mv0i5zuu0i25m",
+      "updatedAt": 1791522375383
+    }
+  ],
   "galeri": [],
   "peralatan": [],
   "tim": [
