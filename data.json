@@ -10,7 +10,15 @@
       "updatedAt": 1791522375383
     }
   ],
-  "galeri": [],
+  "galeri": [
+    {
+      "title": "tes",
+      "cat": "Panggung",
+      "gambar": "https://raw.githubusercontent.com/zedimz/dullayos-data/main/img/img_1791522408205_vt6krb.jpeg",
+      "id": "galeri_mv0i6uakwrqkj",
+      "updatedAt": 1791522414812
+    }
+  ],
   "peralatan": [],
   "tim": [
     {
