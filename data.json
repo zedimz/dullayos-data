@@ -1,5 +1,16 @@
 {
-  "artikel": [],
+  "artikel": [
+    {
+      "title": "tes",
+      "cat": "Inspirasi",
+      "date": "tes",
+      "desc": "tes",
+      "body": "rys",
+      "gambar": "https://raw.githubusercontent.com/zedimz/dullayos-data/main/img/img_1791522475859_mrhcey.jpg",
+      "id": "artikel_mv0i89e75vs83",
+      "updatedAt": 1791522481039
+    }
+  ],
   "testimoni": [
     {
       "nama": "tes",
