@@ -2,20 +2,7 @@
   "artikel": [],
   "testimoni": [],
   "galeri": [],
-  "peralatan": [
-    {
-      "nama": "sond",
-      "desc": "tes",
-      "harga": "tes",
-      "unit": "fes",
-      "fitur": [
-        "tes"
-      ],
-      "gambar": "",
-      "id": "peralatan_mv0i8wvyqiegp",
-      "updatedAt": 1791522511486
-    }
-  ],
+  "peralatan": [],
   "tim": [
     {
       "nama": "dul layos",
