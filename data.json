@@ -37,6 +37,16 @@
   "galeri": [],
   "peralatan": [
     {
+      "nama": "Panggung",
+      "desc": "Deskripsi Panggung kokoh dengan tinggi custom, cocok untuk band, MC, atau acara hiburan.",
+      "harga": "Rp 650.000",
+      "unit": "/3hari",
+      "fitur": "",
+      "gambar": "",
+      "id": "peralatan_mv59swswurv7p",
+      "updatedAt": 1791810658832
+    },
+    {
       "nama": "Genset / Diesel",
       "desc": "Genset silent 5000 watt untuk cadangan listrik acara. Cocok untuk acara outdoor dan area tanpa listrik.",
       "harga": "Rp 500.000",
