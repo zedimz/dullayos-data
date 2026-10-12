@@ -5,6 +5,14 @@
   "peralatan": [],
   "tim": [
     {
+      "nama": "Wa tori",
+      "role": "Karyawan",
+      "bio": "mengendarai mobil dan membantu memasang tenda",
+      "gambar": "",
+      "id": "tim_mv57dkf4mkt7h",
+      "updatedAt": 1791806583713
+    },
+    {
       "nama": "Dul layos",
       "role": "Pemilik",
       "bio": "pemilik layos sekaligus pimpinan untuk karyawan yang berkerja sama",
