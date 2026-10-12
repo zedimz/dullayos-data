@@ -39,8 +39,8 @@
     {
       "nama": "Tenda Layos",
       "desc": "Tenda megah dengan dekorasi lengkap. Cocok untuk pernikahan, khitanan, dan hajatan besar.",
-      "harga": "Custom",
-      "unit": "negosiasi",
+      "harga": "HARGA",
+      "unit": "Negosiasi",
       "fitur": [
         "Dekorasi premium",
         "Pemasangan profesional",
@@ -50,7 +50,7 @@
       ],
       "gambar": "",
       "id": "peralatan_mv598ij8rth00",
-      "updatedAt": 1791809707220
+      "updatedAt": 1791809770635
     }
   ],
   "tim": [
