@@ -37,6 +37,19 @@
   "galeri": [],
   "peralatan": [
     {
+      "nama": "Meja & Kursi",
+      "desc": "Meja Kursi  dan di brongsong oleh kain yang sudah tersedia,cocok untuk hajatan dll.",
+      "harga": "Rp 350.000",
+      "unit": "/3-4hari",
+      "fitur": [
+        "awet dan gampang di pindah pindah",
+        "50 meja dan 100 kursi"
+      ],
+      "gambar": "",
+      "id": "peralatan_mv5a166evvzue",
+      "updatedAt": 1791811044230
+    },
+    {
       "nama": "Prasmanan",
       "desc": "Set lengkap alat makan, piring, gelas, dan wadah prasmanan untuk kebutuhan acara.",
       "harga": "Rp 350.000",
