@@ -1,6 +1,15 @@
 {
   "artikel": [],
-  "testimoni": [],
+  "testimoni": [
+    {
+      "nama": "mba atun",
+      "role": "pernikahan • Dukuhturi",
+      "rating": "5",
+      "text": "Pelayanannya cepat banget. Saya telpon sore, paginya udah dipasang. Hasil dekorasinya bagus, tamu-tamu pada kagum. Recommended banget buat yang mau hajatan! good job buat mas dul dan karyawan nya.",
+      "id": "testimoni_mv581042t7jxj",
+      "updatedAt": 1791807677138
+    }
+  ],
   "galeri": [],
   "peralatan": [],
   "tim": [
