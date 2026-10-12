@@ -37,6 +37,22 @@
   "galeri": [],
   "peralatan": [
     {
+      "nama": "Genset / Diesel",
+      "desc": "Genset silent 5000 watt untuk cadangan listrik acara. Cocok untuk acara outdoor dan area tanpa listrik.",
+      "harga": "Rp 500.000",
+      "unit": "3/hari",
+      "fitur": [
+        "Silent 5000W",
+        "Bahan bakar termasuk",
+        "Operator standby",
+        "Aman untuk area acara",
+        "Bisa backup listrik"
+      ],
+      "gambar": "",
+      "id": "peralatan_mv59plv8oh3li",
+      "updatedAt": 1791810504692
+    },
+    {
       "nama": "Sound System",
       "desc": "Set speaker aktif + mixer Soundcraft + mic wireless untuk acara outdoor dan indoor.",
       "harga": "Rp 300.000",
