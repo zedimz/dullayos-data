@@ -70,10 +70,16 @@
       "desc": "Deskripsi Panggung kokoh dengan tinggi custom, cocok untuk band, MC, atau acara hiburan.",
       "harga": "Rp 650.000",
       "unit": "/3hari",
-      "fitur": "",
+      "fitur": [
+        "Tinggi custom",
+        "Kokoh & stabil",
+        "Ada tangga",
+        "Atap panggung",
+        "Gratis pemasangan"
+      ],
       "gambar": "",
       "id": "peralatan_mv59swswurv7p",
-      "updatedAt": 1791810658832
+      "updatedAt": 1791811207466
     },
     {
       "nama": "Genset / Diesel",
