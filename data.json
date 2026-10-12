@@ -5,6 +5,14 @@
   "peralatan": [],
   "tim": [
     {
+      "nama": "Agus",
+      "role": "karyawan",
+      "bio": "memasang tenda dan mendekorasi",
+      "gambar": "",
+      "id": "tim_mv57hul4qvler",
+      "updatedAt": 1791806783513
+    },
+    {
       "nama": "Wa tori",
       "role": "Karyawan",
       "bio": "mengendarai mobil dan membantu memasang tenda",
