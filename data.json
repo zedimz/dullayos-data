@@ -50,7 +50,7 @@
       "nama": "Genset / Diesel",
       "desc": "Genset silent 5000 watt untuk cadangan listrik acara. Cocok untuk acara outdoor dan area tanpa listrik.",
       "harga": "Rp 500.000",
-      "unit": "3/hari",
+      "unit": "/3hari",
       "fitur": [
         "Silent 5000W",
         "Bahan bakar termasuk",
@@ -60,7 +60,7 @@
       ],
       "gambar": "",
       "id": "peralatan_mv59plv8oh3li",
-      "updatedAt": 1791810504692
+      "updatedAt": 1791810672943
     },
     {
       "nama": "Sound System",
