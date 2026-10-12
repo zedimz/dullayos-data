@@ -37,6 +37,22 @@
   "galeri": [],
   "peralatan": [
     {
+      "nama": "Prasmanan",
+      "desc": "Set lengkap alat makan, piring, gelas, dan wadah prasmanan untuk kebutuhan acara.",
+      "harga": "Rp 350.000",
+      "unit": "/2hari",
+      "fitur": [
+        "100 piring & gelas",
+        "Wadah prasmanan",
+        "Bersih & steril",
+        "Sendok & garpu",
+        "Tempat sampah"
+      ],
+      "gambar": "",
+      "id": "peralatan_mv59w7at1143b",
+      "updatedAt": 1791810812405
+    },
+    {
       "nama": "Panggung",
       "desc": "Deskripsi Panggung kokoh dengan tinggi custom, cocok untuk band, MC, atau acara hiburan.",
       "harga": "Rp 650.000",
