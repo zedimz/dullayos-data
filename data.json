@@ -36,6 +36,13 @@
   ],
   "galeri": [
     {
+      "title": "seng penutup tenda",
+      "cat": "Tenda",
+      "gambar": "https://raw.githubusercontent.com/zedimz/dullayos-data/main/img/img_1791883167361_jmg7xl.jpeg",
+      "id": "galeri_mv6gz3dhsx5xd",
+      "updatedAt": 1791883170773
+    },
+    {
       "title": "tenda layos",
       "cat": "Tenda",
       "gambar": "https://raw.githubusercontent.com/zedimz/dullayos-data/main/img/img_1791881584864_fhx1zt.jpeg",
