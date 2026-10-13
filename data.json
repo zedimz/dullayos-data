@@ -132,6 +132,14 @@
   ],
   "tim": [
     {
+      "nama": "Destro Dev",
+      "role": "Developer Web",
+      "bio": "admin dan mengontrol kegiatan pada website ini,untuk melayani pelanggan ",
+      "gambar": "",
+      "id": "tim_mv6exi98gsh28",
+      "updatedAt": 1791879737516
+    },
+    {
       "nama": "Anggota Lainnya",
       "role": "karyawan",
       "bio": "membantu memasang",
