@@ -132,6 +132,14 @@
   ],
   "tim": [
     {
+      "nama": "agus",
+      "role": "karyawan",
+      "bio": "memasang dan ikut mendekorasi",
+      "gambar": "",
+      "id": "tim_mv6ey8w76jqbk",
+      "updatedAt": 1791879772039
+    },
+    {
       "nama": "Destro Dev",
       "role": "Developer Web",
       "bio": "admin dan mengontrol kegiatan pada website ini,untuk melayani pelanggan ",
