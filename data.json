@@ -34,7 +34,15 @@
       "updatedAt": 1791809405289
     }
   ],
-  "galeri": [],
+  "galeri": [
+    {
+      "title": "dekorasi gelombang warna abu abu",
+      "cat": "Dekorasi",
+      "gambar": "https://raw.githubusercontent.com/zedimz/dullayos-data/main/img/img_1791880938488_x1r4rd.jpg",
+      "id": "galeri_mv6fndmcx719f",
+      "updatedAt": 1791880944564
+    }
+  ],
   "peralatan": [
     {
       "nama": "Meja & Kursi",
