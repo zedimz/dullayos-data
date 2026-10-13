@@ -132,6 +132,14 @@
   ],
   "tim": [
     {
+      "nama": "wa tori",
+      "role": "Sopir",
+      "bio": "mengendarai mobil yang membawa barang barang",
+      "gambar": "",
+      "id": "tim_mv6f2ti3onu45",
+      "updatedAt": 1791879985371
+    },
+    {
       "nama": "tono",
       "role": "karyawan",
       "bio": "membantu memasang alat alat tenda",
