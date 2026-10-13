@@ -132,6 +132,14 @@
   ],
   "tim": [
     {
+      "nama": "tono",
+      "role": "karyawan",
+      "bio": "membantu memasang alat alat tenda",
+      "gambar": "",
+      "id": "tim_mv6ez4xkl3b6b",
+      "updatedAt": 1791879813560
+    },
+    {
       "nama": "agus",
       "role": "karyawan",
       "bio": "memasang dan ikut mendekorasi",
