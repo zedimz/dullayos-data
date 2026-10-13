@@ -130,5 +130,14 @@
       "updatedAt": 1791811864269
     }
   ],
-  "tim": []
+  "tim": [
+    {
+      "nama": "Anggota Lainnya",
+      "role": "karyawan",
+      "bio": "membantu memasang",
+      "gambar": "",
+      "id": "tim_mv6etqxndagw4",
+      "updatedAt": 1791879562139
+    }
+  ]
 }
