@@ -36,6 +36,13 @@
   ],
   "galeri": [
     {
+      "title": "tenda layos",
+      "cat": "Tenda",
+      "gambar": "https://raw.githubusercontent.com/zedimz/dullayos-data/main/img/img_1791881203680_swj6o3.png",
+      "id": "galeri_mv6ft02absn0a",
+      "updatedAt": 1791881206930
+    },
+    {
       "title": "dekorasi model lama",
       "cat": "Dekorasi",
       "gambar": "https://raw.githubusercontent.com/zedimz/dullayos-data/main/img/img_1791881136005_e3ilf9.jpg",
