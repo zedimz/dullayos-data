@@ -132,6 +132,14 @@
   ],
   "tim": [
     {
+      "nama": "agus",
+      "role": "karyawan",
+      "bio": "membawa alat alat dan memasang",
+      "gambar": "",
+      "id": "tim_mv6eu8br8gjsz",
+      "updatedAt": 1791879584680
+    },
+    {
       "nama": "Anggota Lainnya",
       "role": "karyawan",
       "bio": "membantu memasang",
