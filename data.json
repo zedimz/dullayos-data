@@ -130,14 +130,5 @@
       "updatedAt": 1791811864269
     }
   ],
-  "tim": [
-    {
-      "nama": "Dul layos",
-      "role": "Pemilik",
-      "bio": "pemilik layos sekaligus pimpinan untuk karyawan yang berkerja sama",
-      "gambar": "",
-      "id": "tim_mv57b3gsmh3ee",
-      "updatedAt": 1791806468428
-    }
-  ]
+  "tim": []
 }
